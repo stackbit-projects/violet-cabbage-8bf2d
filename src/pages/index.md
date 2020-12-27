@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: images/2020-07-07 12.23.09 1.jpg
     media_position: left
     media_width: fifty
     align: left
